@@ -23,8 +23,10 @@ _C. elegans_ strains:
 * https://cgc.umn.edu/strain/CF4610
 * https://cgc.umn.edu/strain/CF4587
 * https://cgc.umn.edu/strain/CF4588
+
 Plasmids: 
 * https://www.addgene.org/138966
+
 Protocol:
 * https://www.protocols.io/view/step-by-step-guide-to-tag-endogenous-genes-with-sp-bamkic4w
 
