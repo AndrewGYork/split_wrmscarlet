@@ -1,6 +1,6 @@
 # Split-wrmScarlet and split-sfGFP: tools for faster, easier fluorescent labeling of endogenous proteins in Caenorhabditis elegans
 
-<a href="https://doi.org/10.5281/zenodo.3993663"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3993663.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.3993663"><img src="./images/zenodo.3993663.svg" alt="DOI"></a>
 
 A scientific publication that describes a new red fluorophore, along with a set of strains, reagents and protocols, to make it faster and easier to label endogenous _C. elegans_ proteins with fluorescent tags. Read the publication here:
 https://andrewgyork.github.io/split_wrmscarlet (hosted via Andrew York's personal GitHub account)
